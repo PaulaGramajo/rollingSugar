@@ -14,6 +14,12 @@ main{
     object-fit: cover;
 }
 
+.img-recetas{
+    width: 100%;
+    aspect-ratio: 2/3;
+    object-fit: cover;
+}
+
 .img-error404{
     width: 75%;
 }
