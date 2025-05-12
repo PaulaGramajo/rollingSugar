@@ -13,3 +13,14 @@ main{
     aspect-ratio: 1/1;
     object-fit: cover;
 }
+
+.img-error404{
+    width: 75%;
+}
+
+/* large */
+@media (width >= 992px) {
+    .img-error404{
+      width: 40%;
+    }
+  }
