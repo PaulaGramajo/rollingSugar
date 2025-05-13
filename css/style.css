@@ -30,3 +30,10 @@ main{
       width: 40%;
     }
   }
+
+  /* md */
+  @media(668px<=width<=991px){
+    .card-otras-recetas{
+        height: 100%;
+    }
+  }
