@@ -36,4 +36,9 @@ main{
     .card-otras-recetas{
         height: 100%;
     }
+    
+    .img-card-receta{
+        width: 100%;
+        height: 100%;
+    }
   }
